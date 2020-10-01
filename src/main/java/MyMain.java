@@ -88,13 +88,13 @@ public class MyMain {
       System.out.println(" "); 
       System.out.println("reverse of array: ");
       System.out.println(Arrays.toString(reverse(x)));
-      //System.out.println("Is this a geometric series? ");
-      //System.out.println(isGeometric(x));
+      System.out.println("Is this a geometric series? ");
+      System.out.println(isGeometric(x));
       System.out.println("the second largest number: ");
       System.out.println(secondLargest(x));
 
       System.out.println("test geometric: " + isGeometric(y));
-      //System.out.println(isGeometric(z));
+      System.out.println(isGeometric(z));
       
 
         
